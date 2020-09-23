@@ -21,7 +21,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_blueline_hwasan.mk \
     $(LOCAL_DIR)/vf/aosp_crosshatch_vf.mk \
 
-COMMON_LUNCH_CHOICES := \
-    aosp_crosshatch-userdebug \
-    aosp_blueline-userdebug \
-    aosp_crosshatch_vf-userdebug \
+#COMMON_LUNCH_CHOICES := \
+#    aosp_crosshatch-userdebug \
+#    aosp_blueline-userdebug \
+#    aosp_crosshatch_vf-userdebug
